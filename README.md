@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FitKIIT
 
 A comprehensive Flutter application designed for fitness tracking and community engagement. FitKIIT enables users to track their fitness activities, view announcements, manage their profile, and connect with other community members.
@@ -109,4 +108,4 @@ For support or questions, please contact the development team or create an issue
 **Happy Coding!** 🏃‍♂️💪
 =======
 # FitKIIT
->>>>>>> f63949135cc99816bea5eeda250689b5a763d9aa
+
